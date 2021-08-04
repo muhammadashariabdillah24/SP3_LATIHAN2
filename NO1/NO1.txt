@@ -1,0 +1,2 @@
+Kalau Higher Order Function adalah sebuah fungsi yang menerima fungsi lain sebagai parameternya sedangkan. 
+Callback yang bisa diartikan hubungi kembali adalah fungsi akan dijalankan setelah fungsi utama telah dijalankan
